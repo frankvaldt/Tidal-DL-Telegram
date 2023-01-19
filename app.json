@@ -109,7 +109,7 @@
   },
   "addons": [
     {
-      "plan": "heroku-postgresql"
+      "plan": "Elepqsql"
     }
   ],
   "buildpacks": [
