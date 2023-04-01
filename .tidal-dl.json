@@ -21,7 +21,7 @@
     "saveCovers": true, 
     "showProgress": false, 
     "showTrackInfo": false, 
-    "trackFileFormat": "{ArtistsName} - {TrackTitle}", 
+    "trackFileFormat": "{ArtistName} - {TrackTitle}", 
     "usePlaylistFolder": false, 
     "useTrackNumber": false, 
     "videoQuality": "P360"
