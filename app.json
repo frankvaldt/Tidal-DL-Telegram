@@ -107,11 +107,6 @@
       "size": "eco"
     }
   },
-  "addons": [
-    {
-      "plan": "Elepqsql"
-    }
-  ],
   "buildpacks": [
     {
       "url": "heroku/python"
